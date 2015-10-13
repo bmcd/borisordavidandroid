@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">BorisOrDavid</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="boris">Boris</string>
+    <string name="david">David</string>
+    <string name="action_calendar">Set Date</string>
+</resources>
